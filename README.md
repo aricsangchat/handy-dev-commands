@@ -1,2 +1,2 @@
-# handy-dev-commands
-Handy Developer Commands that I use regularly.
+#Handy Dev Commands
+An app that you can use to find helpful dev commands.
